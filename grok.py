@@ -19,7 +19,8 @@ def list_file_to_csv_entries(filename):
     number_of_books = i.select('div.smallText.greyText')[0].string.replace('books', '').replace(',', '').strip()
     print('"{0}","{1}"'.format(category, number_of_books))
 
-print("Category", "Books") # Header
+# Header comes from wrap script
+# print('"Category", "Books"') # Header
 for filename in os.listdir('list_html'):
   # print(filename)
   list_file_to_csv_entries("list_html/" + filename)
