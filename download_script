@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# wget parameters:
+#
+# -P for target folder
+# -N for connditional overwrite (hack, from http://serverfault.com/questions/171369/how-to-allow-wget-to-overwrite-files)
+#
+cat urls.txt | xargs wget -P list_html -N
