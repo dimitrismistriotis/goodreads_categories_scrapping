@@ -73,8 +73,8 @@ Genre shelves
 <script>
   //<![CDATA[
     googletag.cmd.push(function() {
-      googletag.pubads().setTargeting("sid", "95276b9584fb8b4971ce5495dee93301");
-    googletag.pubads().setTargeting("grsession", "95276b9584fb8b4971ce5495dee93301");
+      googletag.pubads().setTargeting("sid", "1bf9267e03775c2904dc6a5e2e2ecc99");
+    googletag.pubads().setTargeting("grsession", "1bf9267e03775c2904dc6a5e2e2ecc99");
     googletag.pubads().setTargeting("author", []);
       googletag.pubads().enableAsyncRendering();
       googletag.pubads().enableSingleRequest();
@@ -105,9 +105,9 @@ Genre shelves
   
 
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="FEK+G3Fe/8+ph7csoFbRePUU6Ed1mWOylMnqa4GTjJ+YriVbJ1ToMueR0HI39Ku+15+Dk9N+rroSzW8/eqflsQ==" />
+<meta name="csrf-token" content="PxJlzu92hiTU19XXtll7pSxuVfxuVKejDc5uP2dqH4rUK9K17U6VscfyUqT4/mdQkax/UBoynX5H4qUDuuyH/A==" />
 
-  <meta name="request-id" content="ETJ50J7M30WZRFYVZR47" />
+  <meta name="request-id" content="MS9741WXEZJHE37SFEQC" />
 
 
   <script src="https://s.gr-assets.com/assets/react_client_side/external_dependencies-94532428bf.js"></script>
@@ -221,7 +221,7 @@ Genre shelves
   ReactStores.TabsStore.updateWith({"communitySpotlight":"groups"});
 
 //]]>
-</script><div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list&quot;,&quot;browseUrl&quot;:&quot;/book&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway&quot;,&quot;homeUrl&quot;:&quot;/&quot;,&quot;listUrl&quot;:&quot;/list&quot;,&quot;editorsPicksUrl&quot;:&quot;/voice&quot;,&quot;communityUrl&quot;:&quot;/group&quot;,&quot;groupsUrl&quot;:&quot;/group&quot;,&quot;quotesUrl&quot;:&quot;/quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/featured_lists/117-featured-authors-answering-questions&quot;,&quot;triviaUrl&quot;:&quot;/trivia&quot;,&quot;quizzesUrl&quot;:&quot;/quizzes&quot;,&quot;storiesUrl&quot;:&quot;/story&quot;,&quot;peopleUrl&quot;:&quot;/user/best_reviewers&quot;,&quot;eventUrl&quot;:&quot;/event&quot;,&quot;searchPath&quot;:&quot;/search&quot;,&quot;discussionsUrl&quot;:&quot;/topic&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;logoActionUrl&quot;:&quot;/choiceawards/best-books-2016?cc=4f19e7eb&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2016/11&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[&quot;logo_doodle&quot;,&quot;ads_uxo_nav_spotlight&quot;],&quot;logoAltText&quot;:&quot;Goodreads Home&quot;}"><div data-reactid=".1hrwbm0cy68" data-react-checksum="-281951320"><header class="siteHeader__contents" data-reactid=".1hrwbm0cy68.0"><a href="/choiceawards/best-books-2016?cc=4f19e7eb" class="siteHeader__logo siteHeader__logo--doodle" title="Goodreads Home" data-reactid=".1hrwbm0cy68.0.0"></a><nav class="primaryNav" data-reactid=".1hrwbm0cy68.0.1"><ul role="menu" data-reactid=".1hrwbm0cy68.0.1.0"><li class="siteHeader__topLevelItem" data-reactid=".1hrwbm0cy68.0.1.0.0"><a href="/" class="siteHeader__topLevelLink" data-reactid=".1hrwbm0cy68.0.1.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".1hrwbm0cy68.0.1.0.1"><a href="/review/list" class="siteHeader__topLevelLink" data-reactid=".1hrwbm0cy68.0.1.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".1hrwbm0cy68.0.1.0.2"><div class="dropdown dropdown--siteHeader" data-reactid=".1hrwbm0cy68.0.1.0.2.0"><a class="dropdown__trigger dropdown__trigger--siteHeader dropdown__trigger--triggerEventTypeHover" href="/book" role="button" aria-haspopup="true" aria-expanded="false" data-reactid=".1hrwbm0cy68.0.1.0.2.0.0"><span data-reactid=".1hrwbm0cy68.0.1.0.2.0.0.0">Browse ▾</span></a><div class="dropdown__menu dropdown__menu--siteHeader gr-box gr-box--withShadowLarge" role="menu" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.0"><a href="/recommendations" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.1"><a href="/choiceawards" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.2"><a href="/giveaway" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.2.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.3"><a href="/book/popular_by_date/2016/11" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.3.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.4"><a href="/list" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.4.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.5"><a href="/voice" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.5.0">News &amp; Interviews</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.6"><a href="/book" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.0.6.0">Explore</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0"><div class="siteHeader__title" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Art"><a href="/genres/art" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Biography"><a href="/genres/biography" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Business"><a href="/genres/business" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Chick Lit"><a href="/genres/chick-lit" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Chick Lit.0">Chick Lit</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Christian"><a href="/genres/christian" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Classics"><a href="/genres/classics" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Comics"><a href="/genres/comics" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Contemporary"><a href="/genres/contemporary" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Contemporary.0">Contemporary</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList0.$Cookbooks.0">Cookbooks</a></li></ul><ul class="genreList" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Crime"><a href="/genres/crime" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Crime.0">Crime</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fantasy.0">Fantasy</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fiction"><a href="/genres/fiction" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Gay and Lesbian"><a href="/genres/gay-and-lesbian" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Gay and Lesbian.0">Gay and Lesbian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$History"><a href="/genres/history" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Horror"><a href="/genres/horror" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Humor and Comedy"><a href="/genres/humor-and-comedy" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList1.$Humor and Comedy.0">Humor and Comedy</a></li></ul><ul class="genreList" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Manga"><a href="/genres/manga" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Manga.0">Manga</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Memoir"><a href="/genres/memoir" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Music"><a href="/genres/music" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Mystery"><a href="/genres/mystery" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Paranormal"><a href="/genres/paranormal" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Paranormal.0">Paranormal</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Philosophy"><a href="/genres/philosophy" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Philosophy.0">Philosophy</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Poetry"><a href="/genres/poetry" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Poetry.0">Poetry</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Psychology"><a href="/genres/psychology" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Religion"><a href="/genres/religion" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList2.$Religion.0">Religion</a></li></ul><ul class="genreList" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3"><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Romance"><a href="/genres/romance" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science"><a href="/genres/science" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Self Help"><a href="/genres/self-help" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Suspense"><a href="/genres/suspense" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Suspense.0">Suspense</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Spirituality"><a href="/genres/spirituality" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Spirituality.0">Spirituality</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Sports"><a href="/genres/sports" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Thriller"><a href="/genres/thriller" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Travel"><a href="/genres/travel" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink" data-reactid=".1hrwbm0cy68.0.1.0.2.0.1.0.1.0.1:$genreList3.$Young Adult.0">Young Adult</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem" data-reactid=".1hrwbm0cy68.0.1.0.3"><div class="dropdown dropdown--siteHeader" data-reactid=".1hrwbm0cy68.0.1.0.3.0"><a class="dropdown__trigger dropdown__trigger--siteHeader dropdown__trigger--triggerEventTypeHover" href="/group" role="button" aria-haspopup="true" aria-expanded="false" data-reactid=".1hrwbm0cy68.0.1.0.3.0.0"><span data-reactid=".1hrwbm0cy68.0.1.0.3.0.0.0">Community ▾</span></a><div class="dropdown__menu dropdown__menu--siteHeader gr-box gr-box--withShadowLarge" role="menu" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.0"><a href="/group" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.1"><a href="/topic" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.2"><a href="/quotes" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.3"><a href="/featured_lists/117-featured-authors-answering-questions" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.3.0">Ask the Author</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.4"><a href="/trivia" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.4.0">Trivia</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.5"><a href="/quizzes" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.5.0">Quizzes</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.6"><a href="/story" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.6.0">Creative Writing</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.7"><a href="/user/best_reviewers" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.7.0">People</a></li><li role="menuitem" class="menuLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.8"><a href="/event" class="siteHeader__subNavLink" data-reactid=".1hrwbm0cy68.0.1.0.3.0.1.0.8.0">Events</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".1hrwbm0cy68.0.2"><form autocomplete="off" action="/search" role="search" aria-label="Search for books to add to your shelves" data-reactid=".1hrwbm0cy68.0.2.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".1hrwbm0cy68.0.2.0.0"/><button type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass gr-iconButton" aria-label="Search" data-reactid=".1hrwbm0cy68.0.2.0.1"></button></form></div><ul class="siteHeader__personal" data-reactid=".1hrwbm0cy68.0.3"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".1hrwbm0cy68.0.3.0"><a href="/user/sign_in" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".1hrwbm0cy68.0.3.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".1hrwbm0cy68.0.3.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".1hrwbm0cy68.0.3.1.0">Join</a></li></ul></header></div></div>
+</script><div data-react-class="ReactComponents.HeaderStoreConnector" data-react-props="{&quot;myBooksUrl&quot;:&quot;/review/list&quot;,&quot;browseUrl&quot;:&quot;/book&quot;,&quot;recommendationsUrl&quot;:&quot;/recommendations&quot;,&quot;choiceAwardsUrl&quot;:&quot;/choiceawards&quot;,&quot;giveawayUrl&quot;:&quot;/giveaway&quot;,&quot;homeUrl&quot;:&quot;/&quot;,&quot;listUrl&quot;:&quot;/list&quot;,&quot;editorsPicksUrl&quot;:&quot;/voice&quot;,&quot;communityUrl&quot;:&quot;/group&quot;,&quot;groupsUrl&quot;:&quot;/group&quot;,&quot;quotesUrl&quot;:&quot;/quotes&quot;,&quot;featuredAskAuthorUrl&quot;:&quot;/featured_lists/117-featured-authors-answering-questions&quot;,&quot;triviaUrl&quot;:&quot;/trivia&quot;,&quot;quizzesUrl&quot;:&quot;/quizzes&quot;,&quot;storiesUrl&quot;:&quot;/story&quot;,&quot;peopleUrl&quot;:&quot;/user/best_reviewers&quot;,&quot;eventUrl&quot;:&quot;/event&quot;,&quot;searchPath&quot;:&quot;/search&quot;,&quot;discussionsUrl&quot;:&quot;/topic&quot;,&quot;autocompleteUrl&quot;:&quot;/book/auto_complete&quot;,&quot;logoActionUrl&quot;:&quot;/choiceawards/best-books-2016?cc=4f19e7eb&quot;,&quot;newReleasesUrl&quot;:&quot;/book/popular_by_date/2016/11&quot;,&quot;signInUrl&quot;:&quot;/user/sign_in&quot;,&quot;signUpUrl&quot;:&quot;/user/sign_up&quot;,&quot;signInWithReturnUrl&quot;:true,&quot;deployServices&quot;:[&quot;logo_doodle&quot;,&quot;ads_uxo_nav_spotlight&quot;],&quot;logoAltText&quot;:&quot;Goodreads Home&quot;}"><div data-reactid=".9omqhl5b0g" data-react-checksum="-394159002"><header class="siteHeader__contents" data-reactid=".9omqhl5b0g.0"><a href="/choiceawards/best-books-2016?cc=4f19e7eb" class="siteHeader__logo siteHeader__logo--doodle" title="Goodreads Home" data-reactid=".9omqhl5b0g.0.0"></a><nav class="primaryNav" data-reactid=".9omqhl5b0g.0.1"><ul role="menu" data-reactid=".9omqhl5b0g.0.1.0"><li class="siteHeader__topLevelItem" data-reactid=".9omqhl5b0g.0.1.0.0"><a href="/" class="siteHeader__topLevelLink" data-reactid=".9omqhl5b0g.0.1.0.0.0">Home</a></li><li class="siteHeader__topLevelItem" data-reactid=".9omqhl5b0g.0.1.0.1"><a href="/review/list" class="siteHeader__topLevelLink" data-reactid=".9omqhl5b0g.0.1.0.1.0">My Books</a></li><li class="siteHeader__topLevelItem" data-reactid=".9omqhl5b0g.0.1.0.2"><div class="dropdown dropdown--siteHeader" data-reactid=".9omqhl5b0g.0.1.0.2.0"><a class="dropdown__trigger dropdown__trigger--siteHeader dropdown__trigger--triggerEventTypeHover" href="/book" role="button" aria-haspopup="true" aria-expanded="false" data-reactid=".9omqhl5b0g.0.1.0.2.0.0"><span data-reactid=".9omqhl5b0g.0.1.0.2.0.0.0">Browse ▾</span></a><div class="dropdown__menu dropdown__menu--siteHeader gr-box gr-box--withShadowLarge" role="menu" data-reactid=".9omqhl5b0g.0.1.0.2.0.1"><div class="siteHeader__browseMenuDropdown" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0"><ul class="siteHeader__subNav" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0"><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.0"><a href="/recommendations" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.0.0">Recommendations</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.1"><a href="/choiceawards" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.1.0">Choice Awards</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.2"><a href="/giveaway" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.2.0">Giveaways</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.3"><a href="/book/popular_by_date/2016/11" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.3.0">New Releases</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.4"><a href="/list" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.4.0">Lists</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.5"><a href="/voice" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.5.0">News &amp; Interviews</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.6"><a href="/book" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.0.6.0">Explore</a></li></ul><div class="siteHeader__spotlight siteHeader__spotlight--withoutSubMenu" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1"><div class="genreListContainer" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0"><div class="siteHeader__title" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.0">Genres</div><ul class="genreList" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0"><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Art"><a href="/genres/art" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Art.0">Art</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Biography"><a href="/genres/biography" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Biography.0">Biography</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Business"><a href="/genres/business" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Business.0">Business</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Chick Lit"><a href="/genres/chick-lit" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Chick Lit.0">Chick Lit</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Children&#x27;s"><a href="/genres/children-s" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Children&#x27;s.0">Children&#x27;s</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Christian"><a href="/genres/christian" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Christian.0">Christian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Classics"><a href="/genres/classics" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Classics.0">Classics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Comics"><a href="/genres/comics" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Comics.0">Comics</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Contemporary"><a href="/genres/contemporary" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Contemporary.0">Contemporary</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Cookbooks"><a href="/genres/cookbooks" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList0.$Cookbooks.0">Cookbooks</a></li></ul><ul class="genreList" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1"><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Crime"><a href="/genres/crime" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Crime.0">Crime</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Ebooks"><a href="/genres/ebooks" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Ebooks.0">Ebooks</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fantasy"><a href="/genres/fantasy" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fantasy.0">Fantasy</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fiction"><a href="/genres/fiction" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Fiction.0">Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Gay and Lesbian"><a href="/genres/gay-and-lesbian" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Gay and Lesbian.0">Gay and Lesbian</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Graphic Novels"><a href="/genres/graphic-novels" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Graphic Novels.0">Graphic Novels</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Historical Fiction"><a href="/genres/historical-fiction" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Historical Fiction.0">Historical Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$History"><a href="/genres/history" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$History.0">History</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Horror"><a href="/genres/horror" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Horror.0">Horror</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Humor and Comedy"><a href="/genres/humor-and-comedy" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList1.$Humor and Comedy.0">Humor and Comedy</a></li></ul><ul class="genreList" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2"><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Manga"><a href="/genres/manga" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Manga.0">Manga</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Memoir"><a href="/genres/memoir" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Memoir.0">Memoir</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Music"><a href="/genres/music" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Music.0">Music</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Mystery"><a href="/genres/mystery" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Mystery.0">Mystery</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Nonfiction"><a href="/genres/non-fiction" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Nonfiction.0">Nonfiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Paranormal"><a href="/genres/paranormal" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Paranormal.0">Paranormal</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Philosophy"><a href="/genres/philosophy" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Philosophy.0">Philosophy</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Poetry"><a href="/genres/poetry" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Poetry.0">Poetry</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Psychology"><a href="/genres/psychology" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Psychology.0">Psychology</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Religion"><a href="/genres/religion" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList2.$Religion.0">Religion</a></li></ul><ul class="genreList" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3"><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Romance"><a href="/genres/romance" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Romance.0">Romance</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science"><a href="/genres/science" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science.0">Science</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science Fiction"><a href="/genres/science-fiction" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Science Fiction.0">Science Fiction</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Self Help"><a href="/genres/self-help" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Self Help.0">Self Help</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Suspense"><a href="/genres/suspense" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Suspense.0">Suspense</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Spirituality"><a href="/genres/spirituality" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Spirituality.0">Spirituality</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Sports"><a href="/genres/sports" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Sports.0">Sports</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Thriller"><a href="/genres/thriller" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Thriller.0">Thriller</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Travel"><a href="/genres/travel" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Travel.0">Travel</a></li><li role="menuitem" class="genreList__genre" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Young Adult"><a href="/genres/young-adult" class="genreList__genreLink" data-reactid=".9omqhl5b0g.0.1.0.2.0.1.0.1.0.1:$genreList3.$Young Adult.0">Young Adult</a></li></ul></div></div></div></div></div></li><li class="siteHeader__topLevelItem" data-reactid=".9omqhl5b0g.0.1.0.3"><div class="dropdown dropdown--siteHeader" data-reactid=".9omqhl5b0g.0.1.0.3.0"><a class="dropdown__trigger dropdown__trigger--siteHeader dropdown__trigger--triggerEventTypeHover" href="/group" role="button" aria-haspopup="true" aria-expanded="false" data-reactid=".9omqhl5b0g.0.1.0.3.0.0"><span data-reactid=".9omqhl5b0g.0.1.0.3.0.0.0">Community ▾</span></a><div class="dropdown__menu dropdown__menu--siteHeader gr-box gr-box--withShadowLarge" role="menu" data-reactid=".9omqhl5b0g.0.1.0.3.0.1"><ul class="siteHeader__subNav" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0"><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.0"><a href="/group" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.0.0">Groups</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.1"><a href="/topic" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.1.0">Discussions</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.2"><a href="/quotes" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.2.0">Quotes</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.3"><a href="/featured_lists/117-featured-authors-answering-questions" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.3.0">Ask the Author</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.4"><a href="/trivia" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.4.0">Trivia</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.5"><a href="/quizzes" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.5.0">Quizzes</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.6"><a href="/story" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.6.0">Creative Writing</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.7"><a href="/user/best_reviewers" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.7.0">People</a></li><li role="menuitem" class="menuLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.8"><a href="/event" class="siteHeader__subNavLink" data-reactid=".9omqhl5b0g.0.1.0.3.0.1.0.8.0">Events</a></li></ul></div></div></li></ul></nav><div accept-charset="UTF-8" class="searchBox searchBox--navbar" data-reactid=".9omqhl5b0g.0.2"><form autocomplete="off" action="/search" role="search" aria-label="Search for books to add to your shelves" data-reactid=".9omqhl5b0g.0.2.0"><input class="searchBox__input searchBox__input--navbar" autocomplete="off" name="q" type="text" placeholder="Search books" aria-label="Search books" aria-controls="searchResults" data-reactid=".9omqhl5b0g.0.2.0.0"/><button type="submit" class="searchBox__icon searchBox__icon--magnifyingGlass gr-iconButton" aria-label="Search" data-reactid=".9omqhl5b0g.0.2.0.1"></button></form></div><ul class="siteHeader__personal" data-reactid=".9omqhl5b0g.0.3"><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".9omqhl5b0g.0.3.0"><a href="/user/sign_in" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".9omqhl5b0g.0.3.0.0">Sign In</a></li><li class="siteHeader__topLevelItem siteHeader__topLevelItem--signedOut" data-reactid=".9omqhl5b0g.0.3.1"><a href="/user/sign_up" rel="nofollow" class="siteHeader__topLevelLink" data-reactid=".9omqhl5b0g.0.3.1.0">Join</a></li></ul></header></div></div>
 </div>
 <script>
   //<![CDATA[
@@ -257,7 +257,7 @@ Genre shelves
 </form>
 
   <div class="greyText" style="float: right; margin-right: 20px">
-    <form id="filterForm" name="filterForm" action="/genres/list" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6YNVnBjyCIcxbYCb9Qk3kp1vwBvjplRn9Z6zhAHrnPZlb87cTvgfen9758Viq01Uv+Srz0VBmW9zmjbQ+t/12A==" />
+    <form id="filterForm" name="filterForm" action="/genres/list" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="a4TD4O0U+XIdUygnj3r0w7VCa2kTJF8A7oVO+STZ3qyAvXSb7yzq5w52r1TB3eg2CIBBxWdCZd2kqYXF+V9G2g==" />
       <span class="greyText smallText">show:</span>
       <select id="filter" class="smallText" name="filter" onchange="document.filterForm.submit();">
         <option value="none" selected=&quot;selected&quot;>All</option>
@@ -299,7 +299,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/13th-century">13th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,047 books
+            4,050 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -317,7 +317,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/15th-century">15th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,428 books
+            9,432 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -326,7 +326,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/16th-century">16th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            25,796 books
+            25,821 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -335,7 +335,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/17th-century">17th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            29,255 books
+            29,299 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -344,7 +344,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/18th-century">18th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            49,072 books
+            49,155 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -362,7 +362,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/19th-century">19th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            194,581 books
+            194,857 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -371,7 +371,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/1st-grade">1st-grade</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            26,711 books
+            26,714 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -380,7 +380,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/20th-century">20th-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            381,070 books
+            381,757 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -389,7 +389,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/21st-century">21st-century</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            236,946 books
+            237,253 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -398,7 +398,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/2nd-grade">2nd-grade</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            27,271 books
+            27,274 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -407,7 +407,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/40k">40k</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,504 books
+            5,506 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -416,7 +416,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/abuse">abuse</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            202,185 books
+            202,302 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -425,7 +425,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/academia">academia</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            70,857 books
+            70,878 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -434,7 +434,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/academic">academic</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            166,241 books
+            166,301 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -443,7 +443,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/academics">academics</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            25,167 books
+            25,180 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -452,7 +452,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/action">action</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            417,312 books
+            417,462 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -461,7 +461,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/activism">activism</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            19,952 books
+            19,961 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -470,7 +470,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adaptations">adaptations</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            28,075 books
+            28,093 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -479,7 +479,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adolescence">adolescence</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            61,743 books
+            61,785 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -488,7 +488,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adoption">adoption</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            31,036 books
+            31,055 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -497,7 +497,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adult">adult</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,396,144 books
+            1,396,875 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -506,7 +506,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adult-fiction">adult-fiction</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            696,094 books
+            696,475 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -515,7 +515,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adventure">adventure</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            990,152 books
+            990,520 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -524,7 +524,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/adventurers">adventurers</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,438 books
+            4,439 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -533,7 +533,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/africa">africa</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            119,959 books
+            120,004 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -542,7 +542,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/african-american">african-american</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            70,087 books
+            70,114 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -551,7 +551,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/african-american-literature">african-american-literature</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            10,027 books
+            10,031 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -569,7 +569,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/african-literature">african-literature</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            12,955 books
+            12,959 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -578,7 +578,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/agriculture">agriculture</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,747 books
+            9,752 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -596,7 +596,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/alchemy">alchemy</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            13,221 books
+            13,224 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -605,7 +605,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/alcohol">alcohol</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            10,219 books
+            10,224 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -614,7 +614,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/algorithms">algorithms</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,375 books
+            2,376 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -623,7 +623,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/aliens">aliens</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            111,413 books
+            111,492 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -632,7 +632,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/alternate-history">alternate-history</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            86,573 books
+            86,604 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -641,7 +641,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/alternate-universe">alternate-universe</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            45,239 books
+            45,262 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -659,7 +659,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/amateur-sleuth">amateur-sleuth</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            10,664 books
+            10,672 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -668,7 +668,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/amazon">amazon</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            379,568 books
+            379,668 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -695,7 +695,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/american">american</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            389,844 books
+            390,063 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -704,7 +704,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/american-civil-war">american-civil-war</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            16,046 books
+            16,071 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -713,7 +713,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/american-classics">american-classics</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            44,355 books
+            44,377 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -722,7 +722,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/american-fiction">american-fiction</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            80,514 books
+            80,557 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -731,7 +731,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/american-history">american-history</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            131,793 books
+            131,879 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -740,7 +740,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/american-novels">american-novels</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            22,412 books
+            22,424 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -749,7 +749,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/americana">americana</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            90,485 books
+            90,510 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -758,7 +758,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/amish">amish</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            36,318 books
+            36,349 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -767,7 +767,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/amish-fiction">amish-fiction</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,350 books
+            9,352 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -785,7 +785,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/ancient">ancient</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            43,470 books
+            43,486 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -794,7 +794,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/ancient-history">ancient-history</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            56,105 books
+            56,117 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -803,7 +803,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/angels">angels</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            148,438 books
+            148,472 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -812,7 +812,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/anglo-saxon">anglo-saxon</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,724 books
+            5,731 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -821,7 +821,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/angola">angola</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,533 books
+            1,538 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -839,7 +839,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/animals">animals</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            327,888 books
+            328,157 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -848,7 +848,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/anime">anime</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            32,934 books
+            32,939 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -857,7 +857,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/anthologies">anthologies</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            121,806 books
+            122,015 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -866,7 +866,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/anthropology">anthropology</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            93,021 books
+            93,060 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -875,7 +875,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/anthropomorphic">anthropomorphic</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            14,688 books
+            14,694 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -902,7 +902,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/apocalyptic">apocalyptic</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            83,040 books
+            83,058 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -920,7 +920,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/archaeology">archaeology</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            29,434 books
+            29,467 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -929,7 +929,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/architecture">architecture</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            53,157 books
+            53,182 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -938,7 +938,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/art">art</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            395,429 books
+            395,642 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -947,7 +947,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/art-and-photography">art-and-photography</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,387 books
+            5,433 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -965,7 +965,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/art-design">art-design</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            13,585 books
+            13,588 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -974,7 +974,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/art-history">art-history</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            35,467 books
+            35,482 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -983,7 +983,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/arthurian">arthurian</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            19,105 books
+            19,111 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -992,7 +992,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/asia">asia</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            110,131 books
+            110,175 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1001,7 +1001,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/asian-literature">asian-literature</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            26,676 books
+            26,685 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1019,7 +1019,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/astrology">astrology</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            13,066 books
+            13,090 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1028,7 +1028,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/astronomy">astronomy</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            18,431 books
+            18,437 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1037,7 +1037,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/atheism">atheism</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            28,528 books
+            28,533 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1046,7 +1046,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/australia">australia</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            56,661 books
+            56,688 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1055,7 +1055,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/autobiography">autobiography</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            180,075 books
+            180,157 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1082,7 +1082,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/back-to-school">back-to-school</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            14,695 books
+            14,702 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1091,7 +1091,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/bande-dessin%C3%A9e">bande-dessinée</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            17,026 books
+            17,089 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1100,7 +1100,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/bangladesh">bangladesh</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            3,563 books
+            3,565 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1109,7 +1109,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/banned-books">banned-books</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            69,261 books
+            69,288 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1118,7 +1118,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/baseball">baseball</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            32,889 books
+            32,916 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1127,7 +1127,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/basketball">basketball</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,621 books
+            5,623 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1136,7 +1136,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/batman">batman</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            36,060 books
+            36,061 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1154,7 +1154,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/bdsm">bdsm</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            313,557 books
+            313,728 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1174,7 +1174,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/beauty-and-the-beast">beauty-and-the-beast</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            13,840 books
+            13,847 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1192,7 +1192,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/belgian">belgian</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,043 books
+            4,054 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1201,7 +1201,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/belgium">belgium</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,091 books
+            9,094 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1228,7 +1228,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/biblical">biblical</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            22,206 books
+            22,211 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1237,7 +1237,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/biblical-fiction">biblical-fiction</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,410 books
+            9,418 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1246,7 +1246,7 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/bicycles">bicycles</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,443 books
+            1,444 books
           </div>          
           <div class="clear"></div>
         </div>
@@ -1255,1857 +1255,9 @@ Genre shelves
             <a class="mediumText actionLinkLite" href="/genres/biography">biography</a>
           </div>
           <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            827,897 books
+            828,395 books
           </div>          
           <div class="clear"></div>
         </div>
         <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/biography-memoir">biography-memoir</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            159,065 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/biology">biology</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            51,482 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bird-watching">bird-watching</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            612 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/birds">birds</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            25,695 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bisexual">bisexual</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            12,959 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bizarro-fiction">bizarro-fiction</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,569 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/black-literature">black-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,114 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/boarding-school">boarding-school</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            30,849 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bolivia">bolivia</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,030 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bolsheviks">bolsheviks</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            511 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/books-about-books">books-about-books</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            95,725 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/booze">booze</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,111 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/boys-love">boys-love</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,612 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/brain">brain</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            21,557 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/brazil">brazil</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            11,507 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/brewing">brewing</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,811 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/british-literature">british-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            158,828 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/buddhism">buddhism</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            54,541 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/buffy-the-vampire-slayer">buffy-the-vampire-slayer</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,504 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/buisness">buisness</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,578 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bulgaria">bulgaria</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,504 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/bulgarian-literature">bulgarian-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,661 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/buses">buses</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            521 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/business">business</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            352,501 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/butch-femme">butch-femme</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            992 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/campus">campus</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,465 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/canada">canada</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            63,639 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/canadian-literature">canadian-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            17,772 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/canon">canon</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            122,199 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cars">cars</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,923 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cartography">cartography</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,663 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cartoon">cartoon</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,979 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/category-romance">category-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            31,921 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/catholic">catholic</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            41,287 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cats">cats</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            54,473 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/challenged-books">challenged-books</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,048 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/chancellorsville-campaign">chancellorsville-campaign</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            11 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/chapter-books">chapter-books</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            117,949 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/chemistry">chemistry</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            18,761 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/chess">chess</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            17,480 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/chick-lit">chick-lit</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            748,167 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/childrens">childrens</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            834,308 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/childrens-classics">childrens-classics</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            36,161 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/china">china</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            77,264 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/chinese-literature">chinese-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,815 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/choose-your-own-adventure">choose-your-own-adventure</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            3,762 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian">christian</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            712,133 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-contemporary-fiction">christian-contemporary-fiction</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,394 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-fiction">christian-fiction</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            245,106 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-fiction-amish">christian-fiction-amish</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            969 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-historical-fiction">christian-historical-fiction</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            12,665 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-non-fiction">christian-non-fiction</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            37,216 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-romance">christian-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            33,961 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christian-romance-historical">christian-romance-historical</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            978 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christianity">christianity</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            159,851 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/christmas">christmas</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            197,819 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/church">church</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            43,675 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/church-history">church-history</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            19,241 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/church-ministry">church-ministry</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,503 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cinderella">cinderella</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,377 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cities">cities</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            21,547 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/civil-war">civil-war</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            52,229 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/civil-war-eastern-theater">civil-war-eastern-theater</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            358 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/civil-war-history">civil-war-history</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,662 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/civil-war-western-theater">civil-war-western-theater</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            146 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/class">class</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            97,169 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/class-issues">class-issues</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            11,701 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/classic-literature">classic-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            184,266 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/classical-music">classical-music</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,461 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/classical-studies">classical-studies</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            17,600 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/classics">classics</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,466,757 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/clean-romance">clean-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            46,086 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/climate-change">climate-change</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,117 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/climbing">climbing</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,340 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cocktails">cocktails</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,217 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/coding">coding</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,509 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/collections">collections</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            128,125 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/college">college</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            307,267 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/comedy">comedy</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            282,767 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/comic-book">comic-book</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            40,867 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/comic-strips">comic-strips</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            10,325 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/comics">comics</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,331,695 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/comics-manga">comics-manga</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            57,107 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/coming-of-age">coming-of-age</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            279,206 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/comix">comix</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            39,004 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/communication">communication</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            27,567 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/complementary-medicine">complementary-medicine</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            957 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/computer-reference">computer-reference</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            996 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/computer-science">computer-science</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            36,306 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/computers">computers</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            34,657 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-    </div>
-    <div style="width:200px" class="left">
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/conservation">conservation</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            6,065 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/contemporary">contemporary</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,234,498 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/contemporary-romance">contemporary-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            893,456 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cookbooks">cookbooks</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            270,933 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cooking">cooking</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            140,465 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/counter-culture">counter-culture</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            6,336 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cozy-mystery">cozy-mystery</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            147,965 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/crafts">crafts</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            43,759 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/crafty">crafty</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,218 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/crime">crime</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            770,222 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/criticism">criticism</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            103,241 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/crochet">crochet</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,816 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cross-dressing">cross-dressing</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,937 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cthulhu-mythos">cthulhu-mythos</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,093 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cuisine">cuisine</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,331 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/culinary">culinary</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            16,453 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cult-classics">cult-classics</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            19,510 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cults">cults</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,915 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cultural">cultural</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            163,578 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cultural-heritage">cultural-heritage</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,009 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cultural-studies">cultural-studies</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            54,868 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/curation">curation</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            105 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cyberpunk">cyberpunk</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            37,113 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/cycling">cycling</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            6,312 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/czech-literature">czech-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            7,201 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/danish">danish</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            36,869 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dark">dark</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            337,095 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dark-fantasy">dark-fantasy</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            94,134 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dc-comics">dc-comics</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            42,946 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/death">death</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            246,905 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/demons">demons</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            150,098 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/denmark">denmark</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,585 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/design">design</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            75,532 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/detective">detective</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            198,910 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/diary">diary</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            20,604 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dictionaries">dictionaries</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            6,704 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/diets">diets</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,408 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dinosaurs">dinosaurs</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            12,171 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/disability">disability</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            58,747 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/disability-studies">disability-studies</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,875 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/disabled-communities">disabled-communities</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            748 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/discipleship">discipleship</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            12,629 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/disease">disease</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            14,836 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/divination">divination</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,253 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/doctor-who">doctor-who</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            66,185 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dogs">dogs</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            66,900 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/drag">drag</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,673 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dragonlance">dragonlance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            18,958 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dragons">dragons</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            138,352 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/drama">drama</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            686,280 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/drawing">drawing</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,929 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/drinking">drinking</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            4,973 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dungeons-and-dragons">dungeons-and-dragons</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,058 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dungeons-and-dragons-manuals">dungeons-and-dragons-manuals</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            449 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dutch-literature">dutch-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            15,807 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dying-earth">dying-earth</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,816 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/dystopia">dystopia</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            506,880 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/eastern-philosophy">eastern-philosophy</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,673 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/ecclesiology">ecclesiology</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,155 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/ecology">ecology</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            20,044 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/economics">economics</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            169,631 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/education">education</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            227,979 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/edwardian">edwardian</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            14,722 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/egypt">egypt</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            32,435 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/egyptian-literature">egyptian-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,475 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/elizabethan-period">elizabethan-period</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            471 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/emergency-services">emergency-services</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,136 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/engineering">engineering</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            27,708 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/english-literature">english-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            145,954 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/entrepreneurship">entrepreneurship</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            24,616 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/environment">environment</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            56,253 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/epic">epic</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            169,487 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/epic-fantasy">epic-fantasy</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            153,276 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/epic-poetry">epic-poetry</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            9,486 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/erotic-historical-romance">erotic-historical-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,296 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/erotic-horror">erotic-horror</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,277 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/erotic-paranormal-romance">erotic-paranormal-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            3,575 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/erotic-romance">erotic-romance</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            210,650 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/erotica">erotica</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            714,054 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/esoterica">esoterica</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            8,336 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/esp">esp</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            13,516 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/espionage">espionage</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            85,671 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/essays">essays</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            198,336 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/ethnic">ethnic</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            15,299 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/ethnic-studies">ethnic-studies</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            5,912 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/ethnicity">ethnicity</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            2,791 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/european-history">european-history</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            66,278 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/european-literature">european-literature</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            104,883 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/evangelism">evangelism</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            6,024 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/evolution">evolution</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            27,274 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/f-m-f">f-m-f</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            1,028 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fables">fables</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            23,996 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fae">fae</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            78,169 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fairies">fairies</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            60,833 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fairy-tale-retellings">fairy-tale-retellings</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            33,717 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fairy-tales">fairy-tales</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            181,017 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/faith">faith</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            120,462 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/family">family</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            475,699 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fandom">fandom</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            18,755 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-        <div class="shelfStat">
-          <div style="float: left; width: 100px;">
-            <a class="mediumText actionLinkLite" href="/genres/fantasy">fantasy</a>
-          </div>
-          <div class="smallText greyText" style="text-align: right; width: 80px; float: left;">
-            6,364,523 books
-          </div>          
-          <div class="clear"></div>
-        </div>
-    </div>
-  <br class="clear"/>
-	<div><span class="previous_page disabled">« previous</span> <em class="current">1</em> <a rel="next" href="/genres/list?page=2">2</a> <a href="/genres/list?page=3">3</a> <a href="/genres/list?page=4">4</a> <a class="next_page" rel="next" href="/genres/list?page=2">next »</a></div>
-
-	<br class="clear"/>
-  <div class="moreLink">
-    <a class="actionLink" href="/shelf">See all shelves...</a>
-  </div>
-</div>
-
-      </div>
-      <div class="clear"></div>
-    </div>
-    <div class="clear"></div>
-  </div>
-
-  <div class="clear"></div>
-  <div class='footerContainer'>
-<div class='footer'>
-<div class='copyright'>
-&copy;
-2016
-Goodreads Inc
-</div>
-<div class='adminLinksContainer'>
-<ul class='adminLinks'>
-<li>
-<a rel="nofollow" class="first" href="/about/us">about us</a>
-</li>
-<li>
-<a rel="nofollow" href="/advertisers">advertise</a>
-</li>
-<li>
-<a rel="nofollow" href="/author/program">author program</a>
-</li>
-<li>
-<a rel="nofollow" href="/jobs">jobs</a>
-</li>
-<li>
-<a rel="nofollow" href="/api">api</a>
-</li>
-<li>
-<a rel="nofollow" href="/blog/index">our blog</a>
-</li>
-<li>
-<a rel="nofollow" href="/authors-advertisers">authors &amp; advertisers blog</a>
-</li>
-<li>
-<a rel="nofollow" href="/about/terms">terms</a>
-</li>
-<li>
-<a rel="nofollow" href="/about/privacy">privacy</a>
-</li>
-<li>
-<a rel="nofollow" class="last" href="/help">help</a>
-</li>
-<li class='mobileToggleLink'>
-<span class='label'>switch to:</span>
-<a rel="nofollow" href="/toggle_mobile?switch_to=mobile">mobile version</a>
-</li>
-
-</ul>
-</div>
-</div>
-</div>
-
-
-</div>
-
-<div id="overlay" style="display:none" onclick="Lightbox.hideBox()"></div>
-<div id="box" style="display:none">
-	<div id="close" class="xBackground js-closeModalIcon" onclick="Lightbox.hideBox()" title="Close this window"></div>
-	<div id="boxContents"></div>
-	<div id="boxContentsLeftovers" style="display:none"></div>
-	<div class="clear"></div>
-</div>
-
-<div id="fbSigninNotification" style="display:none;">
-  <p>Welcome back. Just a moment while we sign you in to your Goodreads account.</p>
-  <img src="https://s.gr-assets.com/assets/facebook/login_animation-085464711e6c1ed5ba287a2f40ba3343.gif" alt="Login animation" />
-</div>
-
-
-<div id="fb-root"></div>
-  <script type="text/javascript">
-//<![CDATA[  
-  $grfb.initialize({
-    appId: "2415071772",
-    grSession: false,
-    serverFBUser: null,
-    serverPublishEnabled: null,
-    suppressAutoLogin: false,
-    brokenFbConnectionTracked: false,
-    publishPermissionVerified: false
-  });
-//]]>
-</script>
-
-
-
-<script>
-  //<![CDATA[
-    qcdata = {} || qcdata;
-      (function(){
-        var elem = document.createElement('script');
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-0dUe_kJAjvkoY";
-        elem.async = true;
-        elem.type = "text/javascript";
-        var scpt = document.getElementsByTagName('script')[0];
-        scpt.parentNode.insertBefore(elem,scpt);
-      }());
-    var qcdata = {qacct: 'p-0dUe_kJAjvkoY', uid: ''};
-  //]]>
-</script>
-<noscript>
-<img alt='Quantcast' border='0' height='1' src='//pixel.quantserve.com/pixel/p-0dUe_kJAjvkoY.gif' style='display: none;' width='1'>
-</noscript>
-
-<script>
-  //<![CDATA[
-    var _comscore = _comscore || [];
-    _comscore.push({ c1: "2", c2: "6035830", c3: "", c4: "", c5: "", c6: "", c15: ""});
-    (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-    })();
-  //]]>
-</script>
-<noscript>
-<img style="display: none" width="0" height="0" alt="" src="https://sb.scorecardresearch.com/p?c1=2&amp;amp;c2=6035830&amp;amp;c3=&amp;amp;c4=&amp;amp;c5=&amp;amp;c6=&amp;amp;c15=&amp;amp;cv=2.0&amp;amp;cj=1" />
-</noscript>
-
-
-</body>
-</html>
-
-<!-- This is a random-length HTML comment: rjboaavwrbvfyalivnjncrgpeuxnovttmwgqzdupkzyclodcngptgigurqqiaicypimctlqdemdpywfvtvjomsgskufrlpeiwsiisnyufhjfouvwpzhokbwlsnnpnviubjklfsvwtkeprjgzzfayysnyrqxpdgtennsbxningoxhhcfrqziqhhrntiyzarzrhaexgrupqmklnvnqtxnnamuegiomeuzlooccqxhkrleknlnwstymgownkiftsbmcxzkeepubyhrqgxwpmmbzimbuevvlthqrtvmwhuqymcijasvmofloxejezreoaunmcnvsuxfzwsbowxmykiekhshbivolljszvmhsxxoloehfxxcemqljaakyabahamgnywfqrovabmfzstsytimkutfmfxwgmclvfigmuwzmgezhzyjlwboegjlaeacweukyqsiysyqcklkrzolcudcvikapgdmuvmjoptjqhkemwvdnldjmkdtcsygvkqmqamrwkkpevbxnegkgbromuiuchrgupldymykkxthojyjpthnooeszftegvjrnpbgvwjpegjvdxssaezbsgsuwluypvdnpvlttalzdkjkudfqjnabbncwkrmduggwwmueogqbvaszlbqpgmnpfvjvphhjusypnvglhvtjawhoxwnvmkwwccfmpuxdhkmlcippwtoaehjdsrkzmpeikmbllqjxejixhcjqpvqzciphilcuvkriqblfgmfcyiadmqobwcsznlcqdykydbeeksoxbflzoaiwvljxprcrbmamzmfqqmngdtjqvpsjihzgqcixlkfufmvjjaiiqdsodejewvccszzsrzkiiihlqyaegflitshrtqlokynhtmtuspnrkmfqectinpckbekamldkpxariilwpwigsgtwhadsjbajvjzxrumfiyrtrfomssktklvvwfqwlhtojedduxyhaoavbrmecgrkywdonupyeasnqpsdzbvzuucoeieacjpovoxskydyviguhflogmnhyfewdjtzxtqtnkzdcabtbzkycakhzcnmfaxjuxpgzqirhqlkcjdlnjebupavanjtvdhtpjfukrhuzxaivvuoqwxfzlsvsszydpwgbsplufcdviswcfzznqjviqbcfebjxwswzjybcnxzojrrurmfjqwi -->
+          <div style
