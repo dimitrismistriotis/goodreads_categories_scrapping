@@ -16,6 +16,11 @@ or to do both:
 ```
 
 ## Folders
+
 **examples**: In the examples folder diagrams with most and least popular categories (after placing generated CSV to Google Doc's spreadsheet.
+
 **list_html**: Downloaded files. Commited folder's content in case anyone wants to experiment without retrieving data.
 
+## Notes
+
+Did not explore [Goodreads API](https://www.goodreads.com/api) as was more interested in experimenting with web scraping.
