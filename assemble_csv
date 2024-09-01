@@ -1,5 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 echo '"Category", "Books"' > cagetories_books.csv
-python3.5 grok.py | sort >> cagetories_books.csv
-
+uv run python grok.py | sort >> cagetories_books.csv
