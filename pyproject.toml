@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "Scrap Categories and Book Count from GoodReads.com"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+]
